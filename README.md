@@ -21,3 +21,4 @@ Objective:
 3. Compare prices in APMC/Mandi with MSP(Minimum Support Price)- raw and deseasonalised
 4. Flag set of APMC/mandis and commodities with highest price fluctuation across different commodities in each relevant season, and year.
 
+Please refer Analysis for detailed explanation of methodology used.
